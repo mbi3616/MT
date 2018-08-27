@@ -1,0 +1,22 @@
+Hallo,
+
+Wie besprochen hier ein paar Links zu den Themen. OPC-UA würde für uns ganz gut passen da es bereits von Zenon unterstützt wird (Zenon sollte derzeit für dich noch nicht relevant sein, können wir uns dann aber ansehen). Da müsstest du dich ein bisschen einlesen.
+
+OPC:
+https://opcfoundation.org/
+
+OPC-UA Java:
+https://github.com/OPCFoundation/UA-Java
+http://opcfoundation.github.io/UA-Java/
+
+Andere Implementierungen:
+https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations
+
+FRI (Fast Robot Interface):
+                Im Anhang die Doku dazu.
+
+Evtl. gibt es auch die Möglichkeit über die C++-Api mit dem Roboter zu kommunizieren. Dann könnten wir auch direkt den OPC-UA-Server in C++ laufen lassen und müssten es nicht in der Java-Applikation verschachteln.
+
+LG
+Ralph
+
